@@ -1,0 +1,10 @@
+{
+  "main.sol": {
+    "__sources__": {
+      "main.sol": {
+        "content": "//SPDX-License-Identifier: MIT\r\npragma solidity ^0.8.28;\r\n\r\ncontract Main {\r\n\r\n}",
+        "file": "main.sol"
+      }
+    }
+  }
+}
