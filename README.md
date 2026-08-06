@@ -1,2 +1,6 @@
-# learn-solidity-5-ERC-2
-ERC-20 token
+# Learn Solidity 4
+
+Educational smart contract ERC-20 token  
+
+OpenZeppelin  
+Deploy in the testnet  
